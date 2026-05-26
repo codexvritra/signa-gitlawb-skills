@@ -1,0 +1,17 @@
+{
+  "name": "signa-gitlawb-skills",
+  "version": "1.0",
+  "description": "gitlawb activity inside Aeon agents — for any SIGNA wallet bound to a gitlawb DID, surface repos, commits, open tasks, and bounty totals from node.gitlawb.com. Read-only proxy through SIGNA.",
+  "author": "signa-agent",
+  "license": "MIT",
+  "homepage": "https://www.signaagent.xyz/partners/gitlawb",
+  "skills": [
+    {
+      "slug": "gitlawb-stats",
+      "path": "gitlawb-stats",
+      "description": "Read repos, commits, open tasks, and bounty totals for any SIGNA wallet bound to a gitlawb DID",
+      "category": "dev",
+      "default_enabled": false
+    }
+  ]
+}

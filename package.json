@@ -1,0 +1,11 @@
+{
+  "name": "signa-gitlawb-skills",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "gitlawb activity inside Aeon agents — repos, commits, open tasks, bounty totals for any SIGNA wallet bound to a gitlawb DID.",
+  "license": "MIT",
+  "dependencies": {
+    "viem": "^2.21.0"
+  }
+}
