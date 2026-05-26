@@ -1,3 +1,11 @@
+> [!NOTE]
+> **This repo has been consolidated.** All SIGNA skills now live in [codexvritra/signa-skills](https://github.com/codexvritra/signa-skills) — one pack, ten skills, single install. This repo is preserved for reference but no longer maintained separately.
+>
+> New install path:
+> ```bash
+> ./install-skill-pack codexvritra/signa-skills
+> ```
+
 # signa-gitlawb-skills
 
 gitlawb activity inside Aeon agents. One read-only skill that surfaces every SIGNA wallet's bound gitlawb DID, repos, commits, open tasks, and bounty totals — fetched live from `node.gitlawb.com` through SIGNA's public partner endpoint.
